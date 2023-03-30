@@ -9,7 +9,7 @@
 - [ ] GUI ingame chat for cheaters? (Low chance of this happening)
 - [ ] More Racing cheats
 - [ ] Change name during game
-- [ ] Set players gold/crypto
+- [✅] Set players gold/crypto
 
 ## Information
 
