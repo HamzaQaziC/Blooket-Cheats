@@ -54,7 +54,7 @@ Battle Royale is a gamemode that works almost entirely on the host's end. The on
 
 <details><summary><h3>Are you the same person as gliz?</h3></summary>
 
-No, I am not gliz. I'm a close friend who worked on the original Blooket cheats with him and took over after he got a cease and desist.
+No, I am not Oneshaft2. I'm a close friend who worked on the original Blooket cheats with him and took over after he got a cease and desist.
 </details>
 
 <details><summary><h3>How do I do this on mobile?</h3></summary>
