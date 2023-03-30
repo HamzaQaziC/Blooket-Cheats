@@ -1,6 +1,6 @@
 <p align="center">Cheats made by someone who knows more about what they're doing</p>
 <h2 align="center">Check out the <a href="https://github.com/Minesraft2/Blooket-Cheats/tree/content">content branch</a> for more cheats</h2>
-<h3 align="center"><a href="https://discord.gg/QznzysxvX4">Support Server</a></h2>
+
 <h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
 
 # Vision Board
@@ -28,7 +28,7 @@ We don't actually know what to do about this or how to fix it, sorry.
 
 <details><summary><h3>(script) is not working?</h3></summary>
 
-Make sure you're running it properly (see [How to use](https://github.com/Minesraft2/Blooket-Cheats#how-to-use)), if it still doesn't work and other cheats do, then [make an issue](https://github.com/Minesraft2/Blooket-Cheats/issues)
+Make sure you're running it properly (see [How to use](https://github.com/HamzaQaziC/Blooket-Cheats#how-to-use)), if it still doesn't work and other cheats do, then [make an issue](https://github.com/HamzaQaziC/Blooket-Cheats/issues)
 </details>
 
 <details><summary><h3>What is the difference between obfuscated and unobfuscated?</h3></summary>
